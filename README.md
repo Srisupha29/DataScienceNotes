@@ -1,5 +1,6 @@
 # DataScienceNotes
-Detailed explanations of Data Science and Machine Learning topics
+Detailed explanations of Data Science and Machine Learning topics: 
+
 -- Python Notes
 1. Numpy
 2. Pandas
@@ -8,4 +9,5 @@ Detailed explanations of Data Science and Machine Learning topics
 1. Matplotlib
 
 
--- DataFiles - Datasets for Exploratory Data Analysis
+-- DataFiles 
+1. Datasets for Exploratory Data Analysis

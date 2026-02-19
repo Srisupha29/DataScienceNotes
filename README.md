@@ -1,4 +1,4 @@
-# DataScienceNotes
+# Data Science Notes 
 Detailed explanations of Data Science and Machine Learning topics: 
 
 -- Python Notes
